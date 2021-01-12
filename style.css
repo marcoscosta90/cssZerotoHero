@@ -1,11 +1,20 @@
-.title {
-    color: red;
+body {
+    background: linear-gradient(to bottom, rgb(204, 229, 255), rgba(204, 229, 255, 0.4));
+}
+
+#title {
+    color: rgb(186,133,9);
 }
 
 .subtitle {
-    color: blue;
+    color: rgb(200, 148,30);
 }
 
-#contact-us {
-    color: green;
+#service-image {
+    height: 400px;
+    width: 70%;
+
+    background: radial-gradient(red, blue, green)
+    
 }
+
